@@ -7,6 +7,7 @@
 <h1> HTML AQUI </h1>
 
 <?php
+
     // CÓDIGO PHP AQUI!
 ?>
 
