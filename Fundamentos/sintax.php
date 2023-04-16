@@ -16,3 +16,13 @@
 <?php
     print date('Y');
 ?>
+
+<html>
+    <body>
+        <h1> EXEMPLO DE PHP </h1>
+            <?
+                $a = 10; 
+                echo $a; 
+            ?>
+    </body>
+</html>            
